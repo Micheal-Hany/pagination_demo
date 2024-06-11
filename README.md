@@ -15,3 +15,9 @@ This Flutter subproject demonstrates how to implement pagination with JSON seria
 
    ```bash
    git clone https://github.com/Micheal-Hany/pagination_demo.git
+
+2. Navigate to the project directory:
+
+   ```bash
+  cd pagination_demo
+
