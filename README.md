@@ -20,5 +20,9 @@ This Flutter subproject demonstrates how to implement pagination with JSON seria
 
 
 ## 🛠 Dependencies
-flutter_bloc: ^8.0.0
-dio: ^4.0.0
+
+- `flutter_bloc: ^8.1.6`: A predictable state management library that helps implement the Bloc pattern.
+- `dio: ^5.4.3+1`: A powerful HTTP client for Dart that supports interceptors, FormData, request cancellation, and more.
+- `build_runner: ^2.4.8`: A tool to generate code for JSON serialization and route generation.
+- `json_serializable: ^6.8.0`: Generates code for converting to and from JSON by annotating Dart classes.
+
