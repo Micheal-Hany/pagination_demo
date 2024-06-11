@@ -19,6 +19,9 @@
 ## 📱 UI
 
 
+https://github.com/Micheal-Hany/pagination_demo/assets/81144769/abd559e4-dc3b-4586-8c44-46370b23eba1
+
+
 ## 🛠 Dependencies
 
 - `flutter_bloc: ^8.1.6`: A predictable state management library that helps implement the Bloc pattern.
