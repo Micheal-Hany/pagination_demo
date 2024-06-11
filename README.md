@@ -33,9 +33,6 @@ https://github.com/Micheal-Hany/pagination_demo/assets/81144769/abd559e4-dc3b-45
 Feel free to reach out to me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/michael-hany-572034262/)
-- Gmail
-- [Facebook](https://www.facebook.com/)
-- [Instagram](https://www.instagram.com/)
 
 ## 💖 Support
 
