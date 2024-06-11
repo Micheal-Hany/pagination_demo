@@ -15,13 +15,9 @@ This Flutter subproject demonstrates how to implement pagination with JSON seria
 
    ```bash
    git clone https://github.com/Micheal-Hany/pagination_demo.git
+   
+📱 UI
 
-
-## Dependencies
-
-This project utilizes the following dependencies:
-
-- [flutter_bloc](https://pub.dev/packages/flutter_bloc): A predictable state management library that helps implement the Bloc pattern.
-- [dio](https://pub.dev/packages/dio): A powerful HTTP client for Dart that supports interceptors, FormData, request cancellation, and more.
-- [json_serializable](https://pub.dev/packages/json_serializable): Generates code for converting to and from JSON by annotating Dart classes.
-- [equatable](https://pub.dev/packages/equatable): Simplifies equality comparisons for Dart objects.
+🛠 Dependencies
+flutter_bloc: ^8.0.0
+dio: ^4.0.0
