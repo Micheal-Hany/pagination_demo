@@ -28,14 +28,16 @@ https://github.com/Micheal-Hany/pagination_demo/assets/81144769/abd559e4-dc3b-45
 - `dio: ^5.4.3+1`: A powerful HTTP client for Dart that supports interceptors, FormData, request cancellation, and more.
 - `build_runner: ^2.4.8`: A tool to generate code for JSON serialization and route generation.
 - `json_serializable: ^6.8.0`: Generates code for converting to and from JSON by annotating Dart classes.
-
 ## 🤝 Contact With Me
 
 Feel free to reach out to me on the following platforms:
 
-- [LinkedIn]([www.linkedin.com/in/michael-hany-572034262](https://www.linkedin.com/in/michael-hany-572034262/))
-- Gmail -> michealhany991@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/michael-hany-572034262/)
+- Gmail
+- [Facebook](https://www.facebook.com/)
+- [Instagram](https://www.instagram.com/)
 
 ## 💖 Support
 
 If you find this tutorial useful or learned something from this code, consider showing some ❤️ by starring this repo.
+
