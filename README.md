@@ -2,7 +2,7 @@
 
 This Flutter subproject demonstrates how to implement pagination with JSON serialization using the [Dio](https://pub.dev/packages/dio) package for HTTP requests and the [json_serializable](https://pub.dev/packages/json_serializable) package for JSON serialization/deserialization.
 
-## Features
+## 🪄 Features
 
 - **Pagination**: Fetches data from an API in a paginated manner, loading more data as the user scrolls.
 - **JSON Serialization**: Utilizes the [json_serializable](https://pub.dev/packages/json_serializable) package to serialize and deserialize JSON data into Dart objects.
